@@ -1,2 +1,2 @@
 # Material-Website
-ACM Website with material design layout.
+ACM-ISM Student Chapter Dhanbad Website with material design layout.
